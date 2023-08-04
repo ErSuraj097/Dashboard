@@ -9,4 +9,4 @@ Descriptive statistics provide simple summaries about the sample and about the o
 
 ![2](https://github.com/ErSuraj097/Dashboard/blob/default/Screenshot%20(545).png)
 
-![Capture](https://user-images.githubusercontent.com/129072179/237061846-c9cf2b8a-a11e-4cf3-880c-7e5570ef2671.PNG)
+![Capture](https://github.com/ErSuraj097/Dashboard/blob/default/Screenshot%20(545).png)
