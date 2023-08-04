@@ -1,4 +1,4 @@
-# Streamlit-Dashboard-Descriptive-Analytics-with-MYSQL
+# Dashboard-Descriptive-Analytics-with-MYSQL -Streamlit 
 
 What is descriptive analytics?
 
